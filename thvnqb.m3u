@@ -73,10 +73,18 @@ http://27.67.64.236:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=01888f6a-6a33-4
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 Viettel
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 Viettel
+http://27.67.64.70:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=4ba15190-53e3-4e51-9509-1fac38f40907&MinBw=0&MaxBw=20000000
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Viettel
 http://live-ali2.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ Viettel 
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV Viettel" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VTV7_logo_%282016-nay%29.png/revision/latest?cb=20200608143129&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 Viettel
+http://27.67.50.72:18080//195_1.m3u8?AdaptiveType=HLS&SessionID=25ee8ae0-f983-4b91-9d9e-98f8b9d7a32c&MinBw=0&MaxBw=2000000
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8 Viettel
+http://27.67.64.83:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=71e38612-0515-42db-b7e3-48a40183f2b7&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 Viettel
+http://27.67.64.83:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=71e38612-0515-42db-b7e3-48a40183f2b7&MinBw=0&MaxBw=20000000
 
 -------------------------------------------VTC------------------------------------------------------
 
