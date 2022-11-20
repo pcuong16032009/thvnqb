@@ -68,7 +68,7 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 --------------------------------------------VTV Viettel-------------------------------------------------
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 Viettel
-https://8ypuv74wu.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
+http://27.67.64.236:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=01888f6a-6a33-4a5f-b58a-b77bca93af64&MinBw=0&MaxBw=20000000
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV Viettel" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cb=20201228133513&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 Viettel
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV Viettel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 Viettel
