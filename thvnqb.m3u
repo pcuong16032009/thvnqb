@@ -496,7 +496,7 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
 #FXTINF:0 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png", CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="cnn" group-title="Quốc tế tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
+#EXTINF:0 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="CNNIndonesia.id" group-title="Quốc tế tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN Indonesia
+#EXTINF:0 tvg-id="CNNIndonesia.id" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
