@@ -327,7 +327,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720
 #EXTINF:0 tvg-id="baclieu" group-title="Địa phương" tvg-logo="https://i.ibb.co/prKmHxt/Bac-Lieu-cc.webp",Bạc Liêu
 https://vips-livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
 #https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:0 tvg-id="bacgiang"  group-title="Địa phương", tvg-logo="https://i.ibb.co/RT18Kbj/Bac-Giang-cc.webp",Bắc Giang
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/RT18Kbj/Bac-Giang-cc.webp",Bắc Giang
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 #https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="backan" group-title="Địa phương" tvg-logo="https://i.ibb.co/3cJRcQR/Bac-Kan-cc.webp",Bắc Kạn
@@ -388,9 +388,9 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdc/dongthaphd_hls.smil/chunklist_b2500000.m3u8																					 ㅤ
 #EXTINF:0 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://i.ibb.co/rdbT1Hm/Gia-Lai-cc.webp",Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương", tvg-logo="https://i.ibb.co/QHkSYVG/Ha-Noi1-cc.webp",Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.ibb.co/QHkSYVG/Ha-Noi1-cc.webp",Hà Nội 1
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương", tvg-logo="https://i.ibb.co/7j7Lxgy/Ha-Noi2-cc.webp",Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.ibb.co/7j7Lxgy/Ha-Noi2-cc.webp",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8																					 ㅤ
 #EXTINF:0 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/pbjvG0n/Ha-Giang-cc.webp",Hà Giang
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
@@ -410,7 +410,7 @@ http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.ibb.co/BNXqZgf/Hue-cc.webp",Huế
 https://nvzoftzsvflivcf.vcdn.com.vn/huetv/huetv@high.m3u8
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương", tvg-logo="https://i.ibb.co/fYWZ8C8/Hung-Yen-cc.webp",Hưng Yên
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://i.ibb.co/fYWZ8C8/Hung-Yen-cc.webp",Hưng Yên
 http://103.90.220.236/hytvlive/tv1live.m3u8																			 ㅤ
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.ibb.co/KLJqvhw/Khanh-Hoa-cc.webp",Khánh Hoà
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
@@ -432,7 +432,7 @@ https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8																			 ㅤ
 #EXTINF:0 tvg-id="namdinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/QMYgTNK/Nam-Dinh-cc.webp",Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương", tvg-logo="https://i.ibb.co/XSFJfLT/Ninh-Binh-cc.webp",Ninh Bình
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/XSFJfLT/Ninh-Binh-cc.webp",Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://i.ibb.co/c3Fsb8v/Ninh-Thuan-cc.webp",Ninh Thuận
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
@@ -450,7 +450,7 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangnninh1" group-title="Địa phương" tvg-logo="https://i.ibb.co/kmYYBF5/Quang-Ninh1-cc.webp",Quảng Ninh 1
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương", tvg-logo="https://i.ibb.co/GJgQZ5L/Quang-Ninh3-cc.webp",Quảng Ninh 3
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.ibb.co/GJgQZ5L/Quang-Ninh3-cc.webp",Quảng Ninh 3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:0 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://i.ibb.co/T27Ctqj/Quang-Tri-cc.webp",Quảng Trị
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8																			 ㅤ
@@ -462,9 +462,9 @@ http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8																			 ㅤ
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.ibb.co/dgp5ddq/Tay-Ninh-cc.webp",Tây Ninh
 #https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương", tvg-logo="https://i.ibb.co/zHLfg5g/Thai-Binh-cc.png",Thái Bình
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/zHLfg5g/Thai-Binh-cc.png",Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương", tvg-logo="https://i.ibb.co/Wg5ppjN/Thai-Nguyen1-cc.webp",Thái Nguyên 1
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.ibb.co/Wg5ppjN/Thai-Nguyen1-cc.webp",Thái Nguyên 1
 http://103.90.220.236/tntvlive/tv1live.m3u8																						 ㅤ
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://i.ibb.co/Rvnk01G/Thanh-Hoa-cc.webp",Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
@@ -481,7 +481,7 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8					
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8?cc
 #EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.ibb.co/Wc3DfL2/Vung-Tau-cc.webp"Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream/chunklist.m3u8?cc																					 ㅤ
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương", tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",Yên Bái
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #-------------------------------Quốc tế ---------------------------------------------     
