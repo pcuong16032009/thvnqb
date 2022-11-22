@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg/xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/guides/kr/seexntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg/xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/guides/kr/seexntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/us.xml" tvg-shift=0 m3uautoload=1
 #LINK EPG CỦA BÁC BẢO CHÍNH CẢM ƠN BÁC NHIỀU 
 #------------------------------------------VTV------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
@@ -31,18 +31,8 @@ http://live.vthanhtivi.pw:8080/vtv1
 http://live2.vthanhtivi.pw/vtv2
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cv=20201228133513&path-prefix=vi", VTV2 FPT
 http://live.vthanhtivi.pw:8080/vtv2
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cv=20201228133513&path-prefix=vi", VTV2 FPT (2)
-http://bolero.myftp.org:6001/stream/channelid/807965496?profile=pass
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cv=20201228133513&path-prefix=vi", VTV2 FPT (3)
-http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cv=20201228133513&path-prefix=vi", VTV2 DVB T2
-http://bolero.myftp.org:6001/stream/channelid/768326915?profile=pass
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png", VTV3 FPT
 http://live.vthanhtivi.pw:8080/vtv3
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png", VTV3 FPT (2)
-http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png", VTV3 FPT (3)
-http://bolero.myftp.org:6001/stream/channelid/841317984?profile=pass
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png", VTV3 DVB T2
 http://live2.vthanhtivi.pw/vtv3
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png", VTV3 DVB T2 (2)
@@ -51,12 +41,6 @@ http://bolero.myftp.org:6001/stream/channelid/165907585?profile=pass
 http://live2.vthanhtivi.pw/vtv5
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 FPT
 http://live.vthanhtivi.pw:8080/vtv5
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 FPT (2)
-http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 FPT (3)
-http://bolero.myftp.org:6001/stream/channelid/1230788689?profile=pass
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 DVB T2
-http://bolero.myftp.org:6001/stream/channelid/706696953?profile=pass
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ FPT
 http://live.vthanhtivi.pw:8080/vtvct
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV Độ Trễ Thấp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ MyTV
@@ -396,7 +380,7 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8																					 ㅤ
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hanam" group-title="Địa phương" tvg-logo="https://i.ibb.co/MRhGwvQ/HaNam-cc.webp",Hà Nam
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/wgfB3DQ/Ha-Tinh-cc.webp"Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/wgfB3DQ/Ha-Tinh-cc.webp" Hà Tĩnh
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.ibb.co/KhCkxnm/Hai-Duong-cc.webp",Hải Dương
 https://nvzoftzsvflivcf.vcdn.com.vn/haiduongtv/haiduongtv@high.m3u8
@@ -478,25 +462,65 @@ https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://i.ibb.co/jLGd1cD/Tuyen-Quang-cc.webp",Tuyên Quang
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8																	 ㅤ
 #EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://i.ibb.co/PY6GdSG/Vinh-Phuc-cc.webp",Vĩnh Phúc
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8?cc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.ibb.co/Wc3DfL2/Vung-Tau-cc.webp"Vũng Tàu
-http://113.163.216.23:1935/live/tv2.stream/chunklist.m3u8?cc																					 ㅤ
+http://113.163.216.23:1935/live/tv2.stream/chunklist.m3u8																				 ㅤ
 #EXTINF:0 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#-------------------------------Quốc tế ---------------------------------------------     
+#-------------------------------News ---------------------------------------------     
 
-#EXTINF:0 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png", Arirang
+#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png", Al Jazeera English
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png", Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png", Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png", Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0 tvg-id="arirang" group-title="News" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png", ABC Australia
+#EXTINF:0 tvg-id="abcaustralia" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png", ABC Australia
 https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://mma.prnewswire.com/media/649927/Bloomberg_Logo.jpg?p=facebook", Bloomberg
+#EXTINF:0 tvg-id="bloomberg" group-title="News" tvg-logo="https://mma.prnewswire.com/media/649927/Bloomberg_Logo.jpg?p=facebook", Bloomberg
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
-#FXTINF:0 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png", CNBC
+#EXTINF:0 tvg-id="CGTN.cn" group-title="News" tvg-logo="https://news.cgtn.com/news/2022-03-03/Live-CGTN-on-Live-186JX8LMSLm/img/be311c3e25724c389c12fcc465d7817a/be311c3e25724c389c12fcc465d7817a.jpeg", CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0 tvg-id="CGTNDocumentary.cn" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#FXTINF:0 tvg-id="cnbc" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png", CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
+#FXTINF:0 tvg-id="CNAInternational.sg" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Channel_NewsAsia_Horizontal.svg/revision/latest/scale-to-width-down/4992?cb=20211127035814&path-prefix=vi", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#FXTINF:0 tvg-id="CBSNews.us" group-title="News" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1280x720/bf32ff81a7966653519a0c98feb5d329/cbsnews-1920x1080.jpg", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="CNNIndonesia.id" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN Indonesia
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CNN_T%C3%BCrk_201x_logo.svg/1200px-CNN_T%C3%BCrk_201x_logo.svg.png", CNN Turkey
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:0 tvg-id="CNNIndonesia.id" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="dw" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/DW_2012.svg/revision/latest?cb=20220204075549&path-prefix=vi", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.dw.com/image/15705485_401.jpg", DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.dw.com/image/15705485_401.jpg", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.dw.com/image/15705485_401.jpg", DW Espanõl
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.france24.com/meta_og_twcards/F24_TW.png", France 24 Arabic
+http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.france24.com/meta_og_twcards/F24_TW.png", France 24 French
+http://81.94.196.204/tsstreamer/France24_HD.ts
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/99/98/90/999890c5-7bfb-45f0-2733-93ff085f955a/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:0 tvg-id="globalnews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Global_National_2013.png", Global News National
+https://dai.google.com/linear/hls/pb/event/cQOVg6jKSvusQAfYpTrUoQ/stream/fcd2428c-f908-4f0d-a60f-7e6a6a755482:SIN/variant/81b33b6ab1e422da22b842d2aa78b730/bandwidth/3027000.m3u8
+#EXTINF:0 tvg-id="NHKWorldJapan.jp" group-title="News" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png", NHK World News
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="OneAmericaNewsNetwork.us" group-title="News" tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2021/10/OAN_Logo_CROPPED.jpeg", One America News
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sky_news_arabia.svg/1200px-Sky_news_arabia.svg.png", Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:0 tvg-id="" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest?cb=20210722080518", TVB News
+http://9.zhxinda.xyz/newss.php?id=1
