@@ -1,0 +1,23 @@
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VTV1_2013.png/120px-VTV1_2013.png", VTV1
+http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/52/VTV2_HD.png/200px-VTV2_HD.png", VTV2
+http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/130px-VTV3_logo_2013_final.svg.png", VTV3
+http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/130px-VTV4_logo_2013_final.svg.png", VTV4 .
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
+http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png", VTV7
+https:///e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtv8-3.png", VTV8
+https://e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/200px-VTV9_HD.png", VTV9
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static2-images.vnncdn.net/files/publish/2022/11/10/f1-xem-vtv-can-tho-truc-tuyen-online-1-249.jpg", VTV Cần Thơ
+http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/130px-Vtv5taynguyen_logo.svg.png", VTV5 Tây Nguyên
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/130px-Vtv5tnb_logo.svg.png", VTV5 Tây Nsm Bộ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://webapi.mytv.vn/static/channel/197.png?ver=14", VTVCab 1 - Vie Giải Trí
