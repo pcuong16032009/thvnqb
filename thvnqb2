@@ -91,9 +91,9 @@ https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/116.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 - NetViet
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/poster/3676.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
-https://livecdn.fptplay.net/sdb/vtc11.hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_VTC12_-_VTCK.jpeg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC12 - VTC K
-https://livecdn.fptplay.net/sdb/vtc12.hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id"vtc13hd" group-title-="VTC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtc13-hd_165649346502.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtc14-hd_165649358172.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC14 HD
