@@ -452,7 +452,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
 
 #-------------------------BBC-------------------------------------#
-#EXTINF:-1 tvg-id=bbcearth" group-title="BBC" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/bbc_transparent.png", BBC Earth
+#EXTINF:-1 tvg-id=bbcearth" group-title="BBC Earth" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/bbc_transparent.png", BBC Earth
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="BBC" tvg-logo="", BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
